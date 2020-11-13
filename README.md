@@ -1,0 +1,2 @@
+# SmartWasteCollectionCenter
+#HackathonProject#opendata.ch
