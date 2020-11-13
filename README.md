@@ -6,7 +6,7 @@
 Analysis of Waste generation.
 
 **About the Project:** <br>
-
+To avoid the littering problem of the Lenzburg city. The officials decided to develop new strategies to overcome the issues and include the public in the cleaning process. 
 **Milestones:** <br>
     1. A mini-Recycling station for Im Lenz <br>
     2. Infrastructure <br>
@@ -24,8 +24,17 @@ Analysis of Waste generation.
   4. Facility for user to report malfunctions using a emergency alert switch directly on the device. 
   5. Volumetric sensor, RFID and GPRS / IOT
   6. Free parking for Waste disposal
-  7. Games: A simulator clean the city application, Photo uploading option.                                                              https://www.littering-toolbox.ch/fileadmin/user_upload/Flyer_LitteringGame.pdf
+  7. Games: A simulator clean the city application, Photo uploading option.                                                              https://www.littering-toolbox.ch/fileadmin/user_upload/Flyer_LitteringGame.pdf <br>
   
  
-
+**Awareness** <br>
+  1. Portable machine to convert food waste to compost/fertiliser. <br>  
+  2. Waste organiser. For instance, Biobag for food waste.
+Data Analysis. <br>
+  3. Real time data source: <br>
+  
 **Challenges/Learnings:** <br>
+
+
+
+
