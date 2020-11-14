@@ -1,4 +1,4 @@
-# SmartWasteCollectionCenter
+# Smart-Waste-Collection-Center
 #HackathonProject#opendata.ch
 
 
