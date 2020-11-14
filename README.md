@@ -1,4 +1,4 @@
-# Smart-Waste-Collection-Center
+# Smart-Recycling-Center
 #HackathonProject#opendata.ch
 
 
@@ -6,7 +6,12 @@
 Analysis of Waste generation.
 
 **About the Project:** <br>
-To avoid the littering problem of the Lenzburg city. The officials decided to develop new strategies to overcome the issues and include the public in the cleaning process. 
+To avoid the littering problem of the Lenzburg city. The officials decided to develop new strategies to overcome the issues and include the public in the cleaning process. <br>
+1. Waste Generation Per Capita (kg/yr) → 702 kg/yr/person → ca 2kg/day
+2. Recycling rate → 34% 
+3. Population of Lenzburg: 10,569 → 7419.438 tonne/yr
+4. Population Density: 930/km2  → ca 1.8 tonne/km2
+
 **Milestones:** <br>
 1. A mini-Recycling station for Im Lenz
 2. Infrastructure (Decentralised/Semi-public mini containers/)
